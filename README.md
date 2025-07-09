@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**SuatDurkaya/suatdurkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Suat Ali, a passionate learner preparing to start university soon.  
+I love Python, Linux, and automating everyday tasks.  
+Also very interested in cloud technologies and a big fan of rock music 🎸.
 
-Here are some ideas to get you started:
+## 🔭 Current Project  
+- File Organizer: A Python script to sort files by their extension.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning  
+- Python scripting  
+- Linux command line  
+- Git & GitHub  
+- Cloud technologies
+
+## 🤓 About Me  
+Eager to learn new things every day and grow as a developer.
+
+## 📫 How to reach me  
+- Email: suat92645@gmail.com 
+- Instagram: suaatdrkya
